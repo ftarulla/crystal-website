@@ -5,8 +5,6 @@ main:
   url: https://forum.crystal-lang.org
 - label: Blog
   url: /blog/
-- label: Sponsors
-  url: /sponsors/
 - label: Community
   url: /community/
 - label: Conference
